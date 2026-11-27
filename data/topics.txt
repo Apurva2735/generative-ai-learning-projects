@@ -1,0 +1,13 @@
+PROJECT: Generative AI Learning & Projects
+
+TOPIC ID: 1
+PROJECT NAME: Generative AI Learning & Projects
+TOPIC NAME: Generative AI
+DESCRIPTION: Introduction to Generative AI
+STATUS: Completed
+GITHUB URL: https://github.com/Apurva2735/generative-ai-learning-projects
+CREATED DATE: 2026-11-27
+
+--- LEARNING DATA ---
+
+--- END TOPIC ---
