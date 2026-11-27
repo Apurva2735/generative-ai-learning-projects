@@ -3,3 +3,11 @@ Topic Name: Generative AI
 Description: Introduction to Generative AI
 Status: Completed
 GitHub Repository URL: https://github.com/Apurva2735/generative-ai-learning-projects.git
+
+ID: 2
+Date: 2026-11-27
+Project Name: Generative AI Learning & Projects
+Topic Name: Python
+Description: Introduction to Python – What is Python?
+Status: Not Started
+GitHub Repository URL: https://github.com/Apurva2735/generative-ai-learning-projects
